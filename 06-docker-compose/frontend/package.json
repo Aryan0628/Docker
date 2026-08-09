@@ -1,0 +1,7 @@
+{
+  "name": "mern-frontend",
+  "version": "1.0.0",
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+}
